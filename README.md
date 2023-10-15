@@ -1,11 +1,11 @@
 # PizzaRecipies
-# tp_pizza
-Bienvenue dans l'application de la Pizzeria, où vous pouvez explorer notre délicieux menu de pizzas et découvrir le processus de préparation complet.
+
+Bienvenue dans l'application de la Pizzeria, qui vous invite à explorer notre délicieux menu de pizzas et à découvrir le processus complet de leur préparation.
 
 ## Capture d'ecran
-### Aperçu
+
 ![Capture d’écran (52)](https://github.com/Nouhaila25/PizzaRecipies/assets/116907282/f8d32af6-5d9c-46aa-844a-e20733d44c21)
-Notre accueil chaleureux vous invite à explorer notre menu de pizzas.
+Notre accueil chaleureux vous convie à découvrir notre menu de pizzas.
 
 ### Menu
 ![Capture d’écran (53)](https://github.com/Nouhaila25/PizzaRecipies/assets/116907282/12276431-ea3d-465b-bddc-30a0a7bbd207)
